@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="wajan_penggorengan" size="100.000000 77.000000" />
+    <ImageTarget name="panci_masak" size="100.000000 56.068203" />
+    <ImageTarget name="talenan" size="100.000000 75.000000" />
+    <ImageTarget name="pisau_dapur" size="100.000000 75.066666" />
+  </Tracking>
+</QCARConfig>
